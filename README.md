@@ -115,3 +115,9 @@ If you are a rights holder, a maintainer, or anyone with a concern about this
 repository, please open an issue or reach the maintainer through the GitHub
 profile **before** taking any other action. We will respond and remove material
 where appropriate.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE). The license covers this repository's own
+files; it grants nothing in respect of Spotify's software or BlockTheSpot, which
+are governed by their own terms.
